@@ -8,6 +8,5 @@ public class Utils {
         if ( Stream.of(str).count() != 0 )
             return Stream.of(str).allMatch(StringUtils::isPositiveNumber);
         else return false;
-
     }
 }

@@ -11,4 +11,5 @@ rootProject.name = 'multi-project'
 include('lib')
 include 'core'
 include 'api'
+include 'plugins'
 

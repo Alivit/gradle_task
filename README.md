@@ -17,3 +17,7 @@
 1. Make a Gradle plugin that also publish and connect to the project.
 2. As an example of plugin functionality - testing and report generation.
 3. Convert the test task to Gradle (if it used Maven or others).
+
+### **You can find the library utils-1.3.5 in the following repository**
+
+https://github.com/Alivit/gradle_util
